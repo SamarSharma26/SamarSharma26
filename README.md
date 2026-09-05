@@ -1,75 +1,60 @@
 <div align="center">
 
+# Hi there! I'm Samar 👋
+
+### **Full-Stack Developer & Automation Specialist**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesamar.code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samar-sharma26)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/samar2607)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UCEu2YzBfr9M2RXjuaSxqh6A)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samar.businesslab@gmail.com)
+
+</div>
+
+---
+
+### 💻 Tech Stack (1:1 Icon Grid)
+
+#### **Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=square&logo=cplusplus&logoColor=white&logoOnly=true" alt="C++" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=square&logo=python&logoColor=white&logoOnly=true" alt="Python" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black&logoOnly=true" alt="JavaScript" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=square&logo=typescript&logoColor=white&logoOnly=true" alt="TypeScript" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=square&logo=html5&logoColor=white&logoOnly=true" alt="HTML5" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=square&logo=css3&logoColor=white&logoOnly=true" alt="CSS3" width="40" height="40" />
+</p>
+
+#### **Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=square&logo=react&logoColor=black&logoOnly=true" alt="React" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=square&logo=redux&logoColor=white&logoOnly=true" alt="Redux" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=square&logo=tailwindcss&logoColor=white&logoOnly=true" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=square&logo=vite&logoColor=white&logoOnly=true" alt="Vite" width="40" height="40" />
+</p>
+
+#### **Backend & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=square&logo=nodedotjs&logoColor=white&logoOnly=true" alt="Node.js" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=square&logo=fastapi&logoColor=white&logoOnly=true" alt="FastAPI" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=square&logo=mongodb&logoColor=white&logoOnly=true" alt="MongoDB" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=square&logo=postgresql&logoColor=white&logoOnly=true" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=square&logo=redis&logoColor=white&logoOnly=true" alt="Redis" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=square&logo=docker&logoColor=white&logoOnly=true" alt="Docker" width="40" height="40" />
+</p>
+
+---
+
+### 🏆 Trophies & Stats
+
 <div align="center">
 
-# Tanmay Khomane  
+<img src="https://github-profile-trophy.vercel.app/?username=SamarSharma26&theme=radical" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.shion.dev/api?username=SamarSharma26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=SamarSharma26&theme=radical&hide_border=false" height="165" />
 
 </div>
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Game+Developer,AIML+Engineer,PyTorch+CNNs+Builder&font=%22Press+Start+2P%22&size=18&pause=1500&width=950&height=70&center=true&color=F7EF3DFF&background=0D1117)
-
-[![Game Dev](https://img.shields.io/badge/Game%20Dev-%23FF6B6B?style=for-the-badge&logo=itch.io&logoColor=white)](https://tanmay-khomane13.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-khomane-01ba60315)
-[![Portfolio](https://img.shields.io/badge/ArcadeFox-%2300D4AA?style=for-the-badge&logo=react&logoColor=white)](https://arcadefox-studio.netlify.app/)
-
-</div>
-
-# 🚀 About Me
-Aspiring Game Developer & AI/ML Enthusiast pursuing B.E. in Computer Engineering at Pimpri Chinchwad College of Engineering (CGPA 8.9). Proficient in C, C++, C#, Python, Unity 2D (physics, animation, level design), and AI/ML (Supervised & Unsupervised Learning, PyTorch CNNs).
-Passionate about arcade-style games, pixel art, and data-driven predictions.
-Previously HSC from Fergusson College, Pune (83.5%). Hands-on experience in automotive photography/videography and content creation for racing teams.
-
-## 📚 Certifications
-- 🎓 **Game Design and Development using Unity Specialization** - Michigan State University (Coursera)
-- 🧠 **Stanford Machine Learning Specialization** - Coursera
-- 🐍 **Learn Python Programming Masterclass** - Udemy
-- 🔧 **Beginning C++ Programming - From Beginner To Beyond** - Udemy
-
-## 💼 Experience
-- **Content Creation Team Head**, Thunderboltz Racing (Aug 2025–Present): Branding, automotive photography, marketing strategy.
-- **Automotive Photographer/Videographer**, Team Nashorns (Feb–Jun 2025): Product showcases and promotional content.
-
-## 🛠️ Technical Skills
-
-**Languages**
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
-</p>
-
-## 🎮 Game Development
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="90"/>
-</p>
-
-<p align="center">
-Game Physics • 2D Animation • Level Design • UI/UX Implementation
-</p> 
-
-## 🧠 AI / ML
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="70"/>
-</p>
-
-<p align="center">
-Supervised Learning • Unsupervised Learning • CNNs
-</p>
-
-<h2 align="center">🌐 Connect</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanmay-khomane-01ba60315"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TanmayKhomane13"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tanmay-khomane13.itch.io/"><img src="https://cdn.simpleicons.org/itchdotio/white" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:khomanetanmay13@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="48" /></a>
-</p>
-        take inspiration from this cdn
