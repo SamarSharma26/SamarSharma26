@@ -1,121 +1,75 @@
 <div align="center">
 
-# Hi there! I'm Samar 👋
+<div align="center">
 
-### **Full-Stack Developer & Automation Specialist**
+# Tanmay Khomane  
+
+</div>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Game+Developer,AIML+Engineer,PyTorch+CNNs+Builder&font=%22Press+Start+2P%22&size=18&pause=1500&width=950&height=70&center=true&color=F7EF3DFF&background=0D1117)
+
+[![Game Dev](https://img.shields.io/badge/Game%20Dev-%23FF6B6B?style=for-the-badge&logo=itch.io&logoColor=white)](https://tanmay-khomane13.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-khomane-01ba60315)
+[![Portfolio](https://img.shields.io/badge/ArcadeFox-%2300D4AA?style=for-the-badge&logo=react&logoColor=white)](https://arcadefox-studio.netlify.app/)
+
+</div>
+
+# 🚀 About Me
+Aspiring Game Developer & AI/ML Enthusiast pursuing B.E. in Computer Engineering at Pimpri Chinchwad College of Engineering (CGPA 8.9). Proficient in C, C++, C#, Python, Unity 2D (physics, animation, level design), and AI/ML (Supervised & Unsupervised Learning, PyTorch CNNs).
+Passionate about arcade-style games, pixel art, and data-driven predictions.
+Previously HSC from Fergusson College, Pune (83.5%). Hands-on experience in automotive photography/videography and content creation for racing teams.
+
+## 📚 Certifications
+- 🎓 **Game Design and Development using Unity Specialization** - Michigan State University (Coursera)
+- 🧠 **Stanford Machine Learning Specialization** - Coursera
+- 🐍 **Learn Python Programming Masterclass** - Udemy
+- 🔧 **Beginning C++ Programming - From Beginner To Beyond** - Udemy
+
+## 💼 Experience
+- **Content Creation Team Head**, Thunderboltz Racing (Aug 2025–Present): Branding, automotive photography, marketing strategy.
+- **Automotive Photographer/Videographer**, Team Nashorns (Feb–Jun 2025): Product showcases and promotional content.
+
+## 🛠️ Technical Skills
+
+**Languages**
 
 <p align="center">
-  <a href="https://instagram.com/thesamar.code"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="38" width="38" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samar-sharma26"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" width="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/samar2607"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="38" width="38" alt="X" /></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@UCEu2YzBfr9M2RXjuaSxqh6A"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="38" width="38" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="mailto:samar.businesslab@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" width="38" alt="Email" /></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
 </p>
 
-</div>
+## 🎮 Game Development
 
----
-
-### 💫 About Me
-
-* 🔭 **Currently working on:** Agency projects at **Codeniq** and building web/mobile apps with **React Native & MERN Stack**.
-* 👯 **Looking to collaborate on:** AI Agents, Workflow Automation, and Open-Source Tech.
-* 🤝 **Seeking help with:** Machine Learning architectures and advanced AI integrations.
-* 🌱 **Learning:** Deep Learning architectures, ML pipelines, and AI automation.
-* 💬 **Ask me about:** Full-Stack Development, Business Process Automation, and Web Development.
-* ⚡ **Fun Fact:** I automate real-world business tasks so I can spend more time writing clean code!
-
----
-
-### 💻 Tech Stack & Tools
-
-#### **Languages & Core**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" width="45" alt="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="45" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" width="45" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="45" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" alt="CSS3" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="90"/>
 </p>
 
-#### **Frontend & Mobile**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" width="45" alt="Redux" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" width="45" alt="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="45" width="45" alt="Vite" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/framer/0055FF" height="45" width="45" alt="Framer" />
+<p align="center">
+Game Physics • 2D Animation • Level Design • UI/UX Implementation
+</p> 
+
+## 🧠 AI / ML
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="70"/>
 </p>
 
-#### **Backend & Databases**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="45" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" width="45" alt="Express" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" width="45" alt="FastAPI" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" width="45" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" width="45" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" width="45" alt="Redis" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" width="45" alt="Supabase" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" width="45" alt="Firebase" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="45" width="45" alt="Socket.io" />
+<p align="center">
+Supervised Learning • Unsupervised Learning • CNNs
 </p>
 
-#### **AI, ML & Data Science**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" width="45" alt="PyTorch" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" width="45" alt="TensorFlow" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" width="45" alt="scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" alt="NumPy" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" alt="Pandas" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" width="45" alt="Matplotlib" />
+<h2 align="center">🌐 Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmay-khomane-01ba60315"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TanmayKhomane13"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tanmay-khomane13.itch.io/"><img src="https://cdn.simpleicons.org/itchdotio/white" height="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:khomanetanmay13@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="48" /></a>
 </p>
-
-#### **Cloud, DevOps & Tools**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="45" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" width="45" alt="GCP" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="45" width="45" alt="Vercel" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" width="45" alt="Postman" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" width="45" alt="Figma" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="45" width="45" alt="Notion" />
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=SamarSharma26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamarSharma26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=SamarSharma26&theme=radical&hide_border=false" />
-
-</div>
-
----
-
-### 🏆 Trophies & Stats
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SamarSharma26&theme=radical" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=SamarSharma26&color=ff69b4&style=flat-square)](https://github.com/SamarSharma26)
-
-</div>
+        take inspiration from this cdn
