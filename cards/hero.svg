@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="270" viewBox="0 0 880 270">
+      <defs>
+        <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#141413" />
+          <stop offset="45%" stop-color="#141413" />
+          <stop offset="50%" stop-color="#1D4ED8" />
+          <stop offset="55%" stop-color="#141413" />
+          <stop offset="100%" stop-color="#141413" />
+          <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite" />
+        </linearGradient>
+      </defs>
+      
+    <style>
+      .serif { font-family: Georgia, 'Times New Roman', serif; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      @keyframes riseIn {
+        0% { opacity: 0; transform: translateY(14px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes popIn {
+        0% { opacity: 0; transform: scale(0.4); }
+        100% { opacity: 1; transform: scale(1); }
+      }
+      @keyframes growBar {
+        0% { transform: scaleY(0); }
+        100% { transform: scaleY(1); }
+      }
+      @keyframes pulseDot {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.45; transform: scale(1.35); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; opacity: 1 !important; transform: none !important; }
+      }
+      
+      
+    </style>
+    
+      <rect x="1" y="1" width="878" height="268" rx="16" fill="#FAF9F6" stroke="#E5E3DC" stroke-width="1.5" />
+      <circle cx="44" cy="44" r="5" fill="#1D4ED8" style="transform-box:fill-box;transform-origin:center;animation:pulseDot 2.2s infinite;" />
+      <text x="58" y="48" class="mono" font-size="12" fill="#6B6A65">INDIA · GITHUB DEVELOPER PROGRAM · @SAMARSHARMA26</text>
+
+      <text x="40" y="118" class="serif" font-size="56" font-weight="700" fill="#141413"
+            style="opacity:0;animation:riseIn 0.5s ease forwards 0.1s">Samar</text>
+      <text x="40" y="176" class="serif" font-size="56" font-weight="700" fill="url(#shine)"
+            style="opacity:0;animation:riseIn 0.5s ease forwards 0.22s">Sharma.</text>
+
+      <text x="40" y="216" class="sans" font-size="16" fill="#141413"
+            style="opacity:0;animation:riseIn 0.5s ease forwards 0.34s">AI &amp; Data Science Student · Building AI Systems, Web Apps &amp; Creative Code</text>
+      <text x="40" y="242" class="mono" font-size="12" fill="#6B6A65"
+            style="opacity:0;animation:riseIn 0.5s ease forwards 0.44s">YouTube @TheSamarCode · X @samar2607 · LinkedIn in/samar-sharma2607</text>
+
+      <text x="640" y="54" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.0s">      .::://///::.      </text><text x="640" y="70" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.04s">    ://++++++++++//:    </text><text x="640" y="86" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.08s">   /++///:::::///+++/   </text><text x="640" y="102" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.12s">  /+/:  .::::.  :/+/  </text><text x="640" y="118" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.16s">  /+:  :++++++:  :+/  </text><text x="640" y="134" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.2s">  /+:  :+/  /+:  :+/  </text><text x="640" y="150" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.24s">  /+/:  '::::'  :/+/  </text><text x="640" y="166" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.28s">   /+++//:::://+++/   </text><text x="640" y="182" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.32s">    ://++++++++//:    </text><text x="640" y="198" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.36s">   .://++++++++//:.   </text><text x="640" y="214" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.4s">  ://++//:::://++//:  </text><text x="640" y="230" class="mono" font-size="13" fill="#141413" style="opacity:0;animation:riseIn 0.35s ease forwards 0.44s"> ://++/        /++//: </text>
+    </svg>

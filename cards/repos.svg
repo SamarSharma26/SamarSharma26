@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="256" viewBox="0 0 880 256">
+      
+    <style>
+      .serif { font-family: Georgia, 'Times New Roman', serif; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      @keyframes riseIn {
+        0% { opacity: 0; transform: translateY(14px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes popIn {
+        0% { opacity: 0; transform: scale(0.4); }
+        100% { opacity: 1; transform: scale(1); }
+      }
+      @keyframes growBar {
+        0% { transform: scaleY(0); }
+        100% { transform: scaleY(1); }
+      }
+      @keyframes pulseDot {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.45; transform: scale(1.35); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; opacity: 1 !important; transform: none !important; }
+      }
+      
+      
+    </style>
+    
+      <rect x="1" y="1" width="878" height="254" rx="16" fill="#FFFFFF" stroke="#E5E3DC" stroke-width="1.5" />
+      <text x="36" y="36" class="mono" font-size="12" font-weight="600" fill="#141413">RECENT REPOSITORIES</text>
+      
+        <g style="opacity:0;animation:riseIn 0.4s ease forwards 1.3s">
+          <rect x="36" y="58" width="396" height="78" rx="12" fill="#FAF9F6" stroke="#E5E3DC" stroke-width="1.2" />
+          <text x="52" y="86" class="mono" font-size="14" font-weight="700" fill="#141413">SamarSharma26</text>
+          <text x="52" y="108" class="sans" font-size="12" fill="#6B6A65">Public repository on GitHub</text>
+          <circle cx="58" cy="124" r="4" fill="#3572A5" />
+          <text x="68" y="128" class="mono" font-size="11" fill="#6B6A65">Python · ★ 0</text>
+        </g>
+        
+        <g style="opacity:0;animation:riseIn 0.4s ease forwards 1.4s">
+          <rect x="448" y="58" width="396" height="78" rx="12" fill="#FAF9F6" stroke="#E5E3DC" stroke-width="1.2" />
+          <text x="464" y="86" class="mono" font-size="14" font-weight="700" fill="#141413">SamarSharma263</text>
+          <text x="464" y="108" class="sans" font-size="12" fill="#6B6A65">Public repository on GitHub</text>
+          <circle cx="470" cy="124" r="4" fill="#1D4ED8" />
+          <text x="480" y="128" class="mono" font-size="11" fill="#6B6A65">Code · ★ 0</text>
+        </g>
+        
+        <g style="opacity:0;animation:riseIn 0.4s ease forwards 1.5s">
+          <rect x="36" y="150" width="396" height="78" rx="12" fill="#FAF9F6" stroke="#E5E3DC" stroke-width="1.2" />
+          <text x="52" y="178" class="mono" font-size="14" font-weight="700" fill="#141413">FrameFind</text>
+          <text x="52" y="200" class="sans" font-size="12" fill="#6B6A65">Null</text>
+          <circle cx="58" cy="216" r="4" fill="#3178c6" />
+          <text x="68" y="220" class="mono" font-size="11" fill="#6B6A65">TypeScript · ★ 0</text>
+        </g>
+        
+        <g style="opacity:0;animation:riseIn 0.4s ease forwards 1.6s">
+          <rect x="448" y="150" width="396" height="78" rx="12" fill="#FAF9F6" stroke="#E5E3DC" stroke-width="1.2" />
+          <text x="464" y="178" class="mono" font-size="14" font-weight="700" fill="#141413">devvaulttest</text>
+          <text x="464" y="200" class="sans" font-size="12" fill="#6B6A65">test</text>
+          <circle cx="470" cy="216" r="4" fill="#3178c6" />
+          <text x="480" y="220" class="mono" font-size="11" fill="#6B6A65">TypeScript · ★ 0</text>
+        </g>
+        
+    </svg>
